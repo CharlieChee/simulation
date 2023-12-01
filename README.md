@@ -12,3 +12,9 @@ Taking the video source as an example, select three different b and analyze thei
 ![image](https://github.com/CharlieChee/simulation/assets/99850422/d161c2d6-aa6c-4807-91c0-5bb9e56f6473)
 ![image](https://github.com/CharlieChee/simulation/assets/99850422/a3b53982-1cb3-49e0-be95-ddaf4817e543)
 ![image](https://github.com/CharlieChee/simulation/assets/99850422/e515524a-9c83-4860-ac6f-242c6ef6c269)
+
+comment:
+
+<img width="864" alt="image" src="https://github.com/CharlieChee/simulation/assets/99850422/c83227f0-8646-4670-96bc-fffcfd5aefb8">
+
+<img width="811" alt="image" src="https://github.com/CharlieChee/simulation/assets/99850422/e6a98374-e47b-4a8a-88d8-fb1342178f64">
