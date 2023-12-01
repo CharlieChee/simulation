@@ -18,3 +18,6 @@ comment:
 <img width="864" alt="image" src="https://github.com/CharlieChee/simulation/assets/99850422/c83227f0-8646-4670-96bc-fffcfd5aefb8">
 
 <img width="811" alt="image" src="https://github.com/CharlieChee/simulation/assets/99850422/e6a98374-e47b-4a8a-88d8-fb1342178f64">
+
+Reasons why confidence intervals appear negative:
+Because the confidence interval obtained is symmetrical, there will be situations where the waiting time is less than 0. In order to avoid this problem, you can choose to use the log function to correct it. But the impact is not big.
