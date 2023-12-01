@@ -13,7 +13,7 @@ Taking the video source as an example, select three different b and analyze thei
 ![image](https://github.com/CharlieChee/simulation/assets/99850422/a3b53982-1cb3-49e0-be95-ddaf4817e543)
 ![image](https://github.com/CharlieChee/simulation/assets/99850422/e515524a-9c83-4860-ac6f-242c6ef6c269)
 
-comment:
+comment:(in report.pdf)
 
 <img width="864" alt="image" src="https://github.com/CharlieChee/simulation/assets/99850422/c83227f0-8646-4670-96bc-fffcfd5aefb8">
 
